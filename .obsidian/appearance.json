@@ -1,0 +1,13 @@
+{
+  "accentColor": "#f3b9ff",
+  "cssTheme": "Baseline",
+  "interfaceFontFamily": "Pretendard Variable,IBM Plex Mono",
+  "textFontFamily": "Pretendard Variable",
+  "monospaceFontFamily": "IBM Plex Mono",
+  "baseFontSizeAction": false,
+  "baseFontSize": 18,
+  "theme": "system",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false
+}
