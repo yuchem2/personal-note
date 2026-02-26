@@ -31,8 +31,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "7561a9a8cec59ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Prototype.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Prototype"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "450842a9823e582c",
@@ -186,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Javascript/Prototype.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 의 개요"
+              "title": "Prototype 의 개요"
             }
           },
           {
@@ -265,9 +290,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c12ebf826535ae7",
+  "active": "7561a9a8cec59ed3",
   "lastOpenFiles": [
     "README.md",
+    "Javascript/Prototype.md",
+    "Javascript",
     "Pattern/MVC.md",
     "styles/Checkbox Style.md",
     "styles/Pasted image 20260225175123.png",
