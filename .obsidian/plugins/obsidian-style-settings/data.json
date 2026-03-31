@@ -96,5 +96,13 @@
   "baseline-style@@blockquote-color@@dark": "#B79CFF",
   "baseline-style@@blockquote-border-color@@dark": "#B79CFF",
   "baseline-style@@blockquote-border-thickness": 2,
-  "baseline-style@@blockquote-font-style": "normal"
+  "baseline-style@@blockquote-font-style": "normal",
+  "baseline-style@@link-color@@light": "#B79CFF",
+  "baseline-style@@link-color@@dark": "#B79CFF",
+  "baseline-style@@link-color-hover@@light": "#B79CFF",
+  "baseline-style@@link-color-hover@@dark": "#B79CFF",
+  "baseline-style@@link-external-color@@light": "#B79CFF",
+  "baseline-style@@link-external-color@@dark": "#B79CFF",
+  "baseline-style@@link-external-color-hover@@light": "#B79CFF",
+  "baseline-style@@link-external-color-hover@@dark": "#B79CFF"
 }
