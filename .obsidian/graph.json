@@ -6,7 +6,29 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Javascript ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path: webRTC  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path: kotlin  path:\"kotlin/Kotlin in Action\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16556291
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
@@ -17,6 +39,6 @@
   "repelStrength": 10.0520833333333,
   "linkStrength": 0.596354166666667,
   "linkDistance": 300,
-  "scale": 0.38230109687700137,
+  "scale": 0.7514342322277593,
   "close": true
 }

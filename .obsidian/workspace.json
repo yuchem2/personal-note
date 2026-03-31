@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Prototype.md",
+                "file": "webRTC/WebRTC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,11 +53,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prototype"
+              "title": "WebRTC"
+            }
+          },
+          {
+            "id": "7d8ab1eaa9b55125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kotlin/Kotlin in Action/1주차 스터디.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1주차 스터디"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "450842a9823e582c",
@@ -211,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Prototype.md",
+                "file": "kotlin/Kotlin in Action/1주차 스터디.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Prototype 의 개요"
+              "title": "1주차 스터디 의 개요"
             }
           },
           {
@@ -290,10 +314,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7561a9a8cec59ed3",
+  "active": "7d8ab1eaa9b55125",
   "lastOpenFiles": [
+    "kotlin/Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "README.md",
+    "kotlin/Kotlin in Action/1주차 스터디.md",
     "Javascript/Prototype.md",
+    "kotlin/Kotlin in Action",
+    "webRTC/WebRTC.md",
+    "kotlin",
+    "webRTC",
     "Javascript",
     "Pattern/MVC.md",
     "styles/Checkbox Style.md",
