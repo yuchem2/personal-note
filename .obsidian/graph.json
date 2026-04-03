@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path: kotlin  path:\"kotlin/Kotlin in Action\"  ",
+      "query": "path:kotlin  ",
       "color": {
         "a": 1,
         "rgb": 16556291
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1.36328125,
@@ -37,8 +37,8 @@
   "collapse-forces": false,
   "centerStrength": 0.700520833333333,
   "repelStrength": 10.0520833333333,
-  "linkStrength": 0.596354166666667,
-  "linkDistance": 300,
+  "linkStrength": 0.5546875,
+  "linkDistance": 254,
   "scale": 0.7514342322277593,
   "close": true
 }
