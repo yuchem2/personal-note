@@ -10,7 +10,7 @@
           {
             "id": "5c4eb0bd0cca1f92",
             "type": "tabs",
-            "dimension": 70.44868488911811,
+            "dimension": 70.4486848891181,
             "children": [
               {
                 "id": "952f9324e50b3821",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "kotlin/Kotlin in Action/1주차 스터디.md",
+                    "file": "kotlin/Kotlin in Action/2주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1주차 스터디"
+                  "title": "2주차 스터디"
                 }
               }
             ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kotlin/Kotlin in Action/1주차 스터디.md",
+                "file": "kotlin/Kotlin in Action/2주차 스터디.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1주차 스터디 의 개요"
+              "title": "2주차 스터디 의 개요"
             }
           },
           {
@@ -246,8 +246,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07b3aa859ebc381d",
+  "active": "952f9324e50b3821",
   "lastOpenFiles": [
+    "kotlin/Kotlin in Action/1주차 스터디.md",
+    "kotlin/Kotlin in Action/2주차 스터디.md",
+    "kotlin/Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "함수형 프로그래밍.md",
     "정적 타입 지정 언어.md",
     "kotlin/함수.md",
@@ -264,8 +267,6 @@
     "kotlin/try-catch.md",
     "kotlin/Kotlin.md",
     "kotlin/Enum.md",
-    "kotlin/Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
-    "kotlin/Kotlin in Action/1주차 스터디.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "kotlin/예외처리.md",
@@ -278,7 +279,6 @@
     "webRTC",
     "Javascript",
     "Pattern/MVC.md",
-    "styles/Checkbox Style.md",
     "styles/Pasted image 20260225175123.png",
     "Pattern",
     "styles",
