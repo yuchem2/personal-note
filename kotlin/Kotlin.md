@@ -10,7 +10,7 @@
     - 다른 프로그래밍 언어가 채택한 이미 성공적으로 검증된 해법과 기능에 주로 의존
     - 도구를 강조
 - 코틀린은 간결하다.
-    > 언어가 간결하다
+    > #### 언어가 간결하다
     >  작성된 코드를 읽을 때 의도를 쉽게 파악할 수 있는 구문 구조를 제공하고, 그 의도를 달성하는 방법을 이해할 때 방해가 될 수 있는 부가적인 준비 코드가 적다.
     - 객체지향 언어에 존재하는 여러가지 번거로운 준비 코드(게터, 세터, 생성자 로직 등)을 암시적으로 제공
     - 람다와 익명 함수 제공
@@ -97,7 +97,7 @@ suspend fun loadAndOverlay(first: String, second: Striing): Image =
     - JSON API를 제공하는 백엔드 애플리케이션
     - RPC 프로토콜이나 메시지 버스를 통해 서로 통신하는 작은 서비스로 이루어진 마이크로서비스
     - 주요 기술: [Spring]([https://kotlinlang.org/docs/jvm-spring-boot-restful.html](https://kotlinlang.org/docs/jvm-get-started-spring-boot.html), [Ktor](https://ktor.io), [http4k](https://http4k.org/)
-> Ktor는 코틀린의 DSL 기능을 사용하여 HTTP 요청을 라우팅하는 방법을 이용한다.
+> #### Ktor는 코틀린의 DSL 기능을 사용하여 HTTP 요청을 라우팅하는 방법을 이용한다.
 > 
 > DSL(Domain Specific Language)은 코틀린 언어 특성을 유연하게 조합하여 설정, 복잡한 객체 생성, 객체 관계 매핑(ORM) 작업, 객체를 데이터베이스 포현으로 변환하거나 역방향으로 변환하기 등에 자주 사용된다.
 - 모바일 개발: 안드로이드는 코틀린 우선
