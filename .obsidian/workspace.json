@@ -4,77 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "e21e5785b8993c7c",
-        "type": "tabs",
-        "dimension": 76.16822429906543,
-        "children": [
-          {
-            "id": "4c12ebf826535ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kotlin/Functions/수신 객체 함수.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "수신 객체 함수"
-            }
-          }
-        ]
-      },
-      {
-        "id": "450842a9823e582c",
+        "id": "ade2782003949def",
         "type": "split",
-        "dimension": 23.83177570093458,
         "children": [
           {
-            "id": "d140b14062e87f3d",
+            "id": "eecc83b40bcbb9ad",
             "type": "tabs",
-            "dimension": 50.56899004267426,
+            "dimension": 66.34429400386847,
             "children": [
               {
-                "id": "779936926af65bf2",
+                "id": "4c12ebf826535ae7",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "그래프 뷰"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Javascript/Prototype.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Prototype"
                 }
               }
             ]
           },
           {
-            "id": "b51fc30948aecca4",
-            "type": "tabs",
-            "dimension": 49.43100995732574,
+            "id": "03ad3d4b097036e5",
+            "type": "split",
+            "dimension": 33.65570599613153,
             "children": [
               {
-                "id": "07b3aa859ebc381d",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
+                "id": "b51fc30948aecca4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b29d55a3de6639dc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "그래프 뷰"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "19f36bfa48cc5852",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "07b3aa859ebc381d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "git-view",
+                      "state": {},
+                      "icon": "git-pull-request",
+                      "title": "Source Control"
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -131,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 206.50281143188477
   },
   "right": {
     "id": "1f953b9a2d188bc3",
@@ -162,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kotlin/Functions/수신 객체 함수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "수신 객체 함수 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -241,41 +245,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c12ebf826535ae7",
+  "active": "b29d55a3de6639dc",
   "lastOpenFiles": [
-    "kotlin/Functions/스코프 함수.md",
-    "kotlin/Kotlin.md",
-    "kotlin/Functions/수신 객체 함수.md",
-    "kotlin/Functions/로컬 함수.md",
-    "kotlin/Functions/가변 인자 함수.md",
-    "kotlin/Functions/디폴트 파라미터 함수.md",
-    "kotlin/Functions/람다.md",
-    "kotlin/Functions/also.md",
-    "kotlin/Functions/apply.md",
-    "kotlin/Functions/main.md",
-    "kotlin/Functions/run.md",
-    "kotlin/Functions/with.md",
-    "kotlin/Functions/함수.md",
+    "Javascript/Prototype.md",
+    "Kotlin in Action/1주차 스터디.md",
+    "Kotlin in Action/3주차 스터디.md",
+    "Kotlin/Class/object 키워드.md",
+    "patterns/전략 패턴.md",
+    "Kotlin/Functions/also.md",
+    "Kotlin/Functions/apply.md",
+    "Kotlin/Functions/스코프 함수.md",
+    "Kotlin/Functions/수신 객체 함수.md",
+    "patterns/데코레이터 패턴.md",
+    "Kotlin/Kotlin.md",
+    "Kotlin/Functions/로컬 함수.md",
+    "Kotlin/Functions/가변 인자 함수.md",
+    "Kotlin/Functions/디폴트 파라미터 함수.md",
+    "Kotlin/Functions/람다.md",
+    "Kotlin/Functions/main.md",
+    "Kotlin/Functions/run.md",
+    "Kotlin/Functions/with.md",
+    "Kotlin/Functions/함수.md",
     "디퐅트 파라미터.md",
-    "kotlin/구조 분해 선언.md",
-    "kotlin/멤버 참조.md",
-    "kotlin/문과 식.md",
-    "kotlin/문자열 템플릿.md",
-    "kotlin/반복문.md",
-    "kotlin/변수.md",
-    "kotlin/스마트 캐스트.md",
-    "kotlin/중위 호출.md",
-    "kotlin/최상위 프로퍼티.md",
-    "kotlin/패키지.md",
-    "kotlin/when.md",
-    "kotlin/try-catch.md",
-    "kotlin/Keywords",
-    "kotlin/Functions",
+    "Kotlin/구조 분해 선언.md",
+    "Kotlin/멤버 참조.md",
+    "Kotlin/문과 식.md",
+    "Kotlin/문자열 템플릿.md",
+    "Kotlin/반복문.md",
+    "Kotlin/변수.md",
+    "Kotlin/Keywords",
+    "Kotlin/Functions",
     "webRTC",
     "patterns",
-    "kotlin/Kotlin in Action",
-    "kotlin/Class",
-    "kotlin",
+    "Kotlin in Action",
+    "Kotlin/Class",
+    "Kotlin",
     "Javascript",
     "styles/Pasted image 20260225175123.png",
     "Pattern",

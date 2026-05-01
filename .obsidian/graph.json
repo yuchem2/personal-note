@@ -5,20 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Javascript ",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:kotlin  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
       }
     },
     {
@@ -34,6 +27,20 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path: \"Kotlin in Action\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "path: Kotlin  ",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
+      }
     }
   ],
   "collapse-display": true,
@@ -41,11 +48,11 @@
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1.36328125,
   "lineSizeMultiplier": 0.801822916666667,
-  "collapse-forces": false,
-  "centerStrength": 0.700520833333333,
-  "repelStrength": 10.0520833333333,
-  "linkStrength": 0.596354166666667,
-  "linkDistance": 300,
-  "scale": 0.38230109687700137,
+  "collapse-forces": true,
+  "centerStrength": 0.657421158382109,
+  "repelStrength": 12.1106490783611,
+  "linkStrength": 1,
+  "linkDistance": 268,
+  "scale": 0.3851946856465318,
   "close": true
 }
