@@ -9,5 +9,8 @@
   "theme": "system",
   "showViewHeader": false,
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "hide-embed-title"
+  ]
 }

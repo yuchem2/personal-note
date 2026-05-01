@@ -1,6 +1,6 @@
 [Kotlin](Kotlin.md)에서 `when`은 조건에 따라 여러 경우를 분기할 때 사용할 수 있는 분기식이다. `if`처럼 식으로 판단되며 값으로 사용될 수 있다.
 ## 분기 조건: 객체
-> [Enum](Enum.md)에서의 Color 클래스 활용
+> [enum](enum.md)에서의 Color 클래스 활용
 ```kotlin
 // switch 처럼 사용하기
 when (객체) {

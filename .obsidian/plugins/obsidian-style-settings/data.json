@@ -130,5 +130,7 @@
   "baseline-style@@color-blue-rgb@@dark": "#378ADD",
   "baseline-style@@color-purple-rgb@@dark": "#7F77DD",
   "baseline-style@@color-pink-rgb@@dark": "#D4537E",
-  "baseline-style@@italic-color@@dark": "#85B7EB"
+  "baseline-style@@italic-color@@dark": "#85B7EB",
+  "baseline-style@@embed-style": "embed-block",
+  "baseline-style@@embed-hide-title": true
 }
