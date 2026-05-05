@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ade2782003949def",
+        "id": "f1cbb4febe941e69",
         "type": "split",
         "children": [
           {
-            "id": "eecc83b40bcbb9ad",
+            "id": "5c4eb0bd0cca1f92",
             "type": "tabs",
-            "dimension": 66.34429400386847,
+            "dimension": 69.37212863705973,
             "children": [
               {
-                "id": "4c12ebf826535ae7",
+                "id": "af3bbb1196fe1785",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Javascript/Prototype.md",
+                    "file": "Kotlin in Action/5주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -29,26 +29,26 @@
                       "showSearch": false,
                       "searchQuery": "",
                       "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                      "unlinkedCollapsed": false
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Prototype"
+                  "title": "5주차 스터디"
                 }
               }
             ]
           },
           {
-            "id": "03ad3d4b097036e5",
+            "id": "0d7f6ace80e08295",
             "type": "split",
-            "dimension": 33.65570599613153,
+            "dimension": 30.627871362940272,
             "children": [
               {
-                "id": "b51fc30948aecca4",
+                "id": "d140b14062e87f3d",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "b29d55a3de6639dc",
+                    "id": "779936926af65bf2",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -60,7 +60,7 @@
                 ]
               },
               {
-                "id": "19f36bfa48cc5852",
+                "id": "541721aa102807ac",
                 "type": "tabs",
                 "children": [
                   {
@@ -112,7 +112,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.50281143188477
+    "width": 264.5
   },
   "right": {
     "id": "1f953b9a2d188bc3",
@@ -167,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kotlin in Action/5주차 스터디.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "5주차 스터디 의 개요"
             }
           },
           {
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kotlin/함수.md",
+                "file": "styles/Checkbox Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "함수 의 백링크"
+              "title": "Checkbox Style 의 백링크"
             }
           },
           {
@@ -200,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kotlin/함수.md",
+                "file": "styles/Checkbox Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "함수 의 나가는 링크"
+              "title": "Checkbox Style 의 나가는 링크"
             }
           },
           {
@@ -221,68 +222,78 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "da903a025afbf1d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "switcher:빠른 전환기 열기": true,
+      "canvas:새 캔버스 만들기": true,
+      "daily-notes:오늘의 일일 노트 열기": true,
+      "templates:템플릿 삽입": true,
       "bases:새 베이스 생성하기": false,
-      "smart-random-note:Open Random Note from Search": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b29d55a3de6639dc",
+  "active": "af3bbb1196fe1785",
   "lastOpenFiles": [
-    "Javascript/Prototype.md",
-    "Kotlin in Action/1주차 스터디.md",
+    "Kotlin in Action/4주차 스터디.md",
+    "Kotlin in Action/2주차 스터디.md",
     "Kotlin in Action/3주차 스터디.md",
-    "Kotlin/Class/object 키워드.md",
-    "patterns/전략 패턴.md",
-    "Kotlin/Functions/also.md",
-    "Kotlin/Functions/apply.md",
-    "Kotlin/Functions/스코프 함수.md",
-    "Kotlin/Functions/수신 객체 함수.md",
-    "patterns/데코레이터 패턴.md",
-    "Kotlin/Kotlin.md",
-    "Kotlin/Functions/로컬 함수.md",
-    "Kotlin/Functions/가변 인자 함수.md",
-    "Kotlin/Functions/디폴트 파라미터 함수.md",
-    "Kotlin/Functions/람다.md",
-    "Kotlin/Functions/main.md",
-    "Kotlin/Functions/run.md",
-    "Kotlin/Functions/with.md",
-    "Kotlin/Functions/함수.md",
-    "디퐅트 파라미터.md",
-    "Kotlin/구조 분해 선언.md",
-    "Kotlin/멤버 참조.md",
-    "Kotlin/문과 식.md",
-    "Kotlin/문자열 템플릿.md",
-    "Kotlin/반복문.md",
-    "Kotlin/변수.md",
-    "Kotlin/Keywords",
-    "Kotlin/Functions",
-    "webRTC",
-    "patterns",
+    "Kotlin in Action/5주차 스터디.md",
+    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
+    "kotlin/Class/인라인 클래스.md",
+    "kotlin/멤버 참조.md",
+    "kotlin/Keywords/enum.md",
+    "kotlin/Keywords/as.md",
+    "kotlin/Keywords",
+    "kotlin/Functions/함수.md",
+    "kotlin/Functions/로컬 함수.md",
+    "kotlin/Functions/수신 객체 함수.md",
+    "kotlin/Functions/스코프 함수.md",
+    "kotlin/Functions/람다.md",
+    "kotlin/Functions/디폴트 파라미터 함수.md",
+    "kotlin/Functions/가변 인자 함수.md",
+    "kotlin/Functions/run.md",
+    "kotlin/Functions/with.md",
+    "kotlin/Functions/main.md",
+    "kotlin/Functions/apply.md",
+    "kotlin/Functions/also.md",
+    "kotlin/Functions",
+    "kotlin/Class/인터페이스.md",
+    "kotlin/Class/문자열.md",
+    "kotlin/Class/SAM 인터페이스.md",
+    "kotlin/Class/Collections.md",
+    "Kotlin in Action/1주차 스터디.md",
     "Kotlin in Action",
-    "Kotlin/Class",
-    "Kotlin",
+    "kotlin/Class",
+    "patterns",
+    "Excalidraw",
+    "kotlin/Kotlin in Action",
+    "kotlin",
+    "webRTC",
     "Javascript",
-    "styles/Pasted image 20260225175123.png",
-    "Pattern",
-    "styles"
+    "styles/Pasted image 20260225175123.png"
   ]
 }
