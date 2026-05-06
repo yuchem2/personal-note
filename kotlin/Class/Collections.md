@@ -17,4 +17,5 @@ fun Collection<Int>.max(): Int { /* 컬렉션의 최대값 반환 */ }
 ### 컬렉션 생성 함수
 - `List<T>`를 생성하려면 `listOf`를 사용할 수 있다.
 - `Map<T>`를 생성하려면 `mapOf`를 사용할 수 있다.
-
+### Collections API
+![Collections API](Collections%20API.md)

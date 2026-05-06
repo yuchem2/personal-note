@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kotlin in Action/5주차 스터디.md",
+                    "file": "kotlin/Class/시퀀스.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "5주차 스터디"
+                  "title": "시퀀스"
                 }
               }
             ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin in Action/5주차 스터디.md",
+                "file": "kotlin/Class/시퀀스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5주차 스터디 의 개요"
+              "title": "시퀀스 의 개요"
             }
           },
           {
@@ -256,12 +256,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af3bbb1196fe1785",
+  "active": "07b3aa859ebc381d",
   "lastOpenFiles": [
+    "kotlin/Class/Collections API.md",
+    "kotlin/Class/시퀀스.md",
+    "kotlin/Class/Collections.md",
+    "Kotlin in Action/5주차 스터디.md",
     "Kotlin in Action/4주차 스터디.md",
     "Kotlin in Action/2주차 스터디.md",
     "Kotlin in Action/3주차 스터디.md",
-    "Kotlin in Action/5주차 스터디.md",
     "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "kotlin/Class/인라인 클래스.md",
     "kotlin/멤버 참조.md",
@@ -283,9 +286,6 @@
     "kotlin/Functions",
     "kotlin/Class/인터페이스.md",
     "kotlin/Class/문자열.md",
-    "kotlin/Class/SAM 인터페이스.md",
-    "kotlin/Class/Collections.md",
-    "Kotlin in Action/1주차 스터디.md",
     "Kotlin in Action",
     "kotlin/Class",
     "patterns",
