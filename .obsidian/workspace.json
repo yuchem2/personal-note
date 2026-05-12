@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "kotlin/Class/시퀀스.md",
+                    "file": "Kotlin in Action/3주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "시퀀스"
+                  "title": "3주차 스터디"
                 }
               }
             ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kotlin/Class/시퀀스.md",
+                "file": "Kotlin in Action/3주차 스터디.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "시퀀스 의 개요"
+              "title": "3주차 스터디 의 개요"
             }
           },
           {
@@ -256,16 +256,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07b3aa859ebc381d",
+  "active": "af3bbb1196fe1785",
   "lastOpenFiles": [
-    "kotlin/Class/Collections API.md",
-    "kotlin/Class/시퀀스.md",
-    "kotlin/Class/Collections.md",
+    "Kotlin in Action/6주차 스터디.md",
     "Kotlin in Action/5주차 스터디.md",
     "Kotlin in Action/4주차 스터디.md",
-    "Kotlin in Action/2주차 스터디.md",
+    "Kotlin in Action/1주차 스터디.md",
     "Kotlin in Action/3주차 스터디.md",
     "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
+    "kotlin/Functions/with.md",
+    "kotlin/Class/시퀀스.md",
+    "kotlin/Class/Collections API.md",
+    "kotlin/Class/Collections.md",
+    "Kotlin in Action/2주차 스터디.md",
     "kotlin/Class/인라인 클래스.md",
     "kotlin/멤버 참조.md",
     "kotlin/Keywords/enum.md",
@@ -279,13 +282,10 @@
     "kotlin/Functions/디폴트 파라미터 함수.md",
     "kotlin/Functions/가변 인자 함수.md",
     "kotlin/Functions/run.md",
-    "kotlin/Functions/with.md",
     "kotlin/Functions/main.md",
     "kotlin/Functions/apply.md",
     "kotlin/Functions/also.md",
     "kotlin/Functions",
-    "kotlin/Class/인터페이스.md",
-    "kotlin/Class/문자열.md",
     "Kotlin in Action",
     "kotlin/Class",
     "patterns",
