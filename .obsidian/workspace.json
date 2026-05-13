@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kotlin in Action/3주차 스터디.md",
+                    "file": "Javascript/var.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,10 +33,35 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "3주차 스터디"
+                  "title": "var"
+                }
+              },
+              {
+                "id": "07d88b6bb8a8f8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Javascript/식별자.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "식별자"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "0d7f6ace80e08295",
@@ -167,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin in Action/3주차 스터디.md",
+                "file": "Javascript/식별자.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3주차 스터디 의 개요"
+              "title": "식별자 의 개요"
             }
           },
           {
@@ -256,13 +281,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af3bbb1196fe1785",
+  "active": "07d88b6bb8a8f8bb",
   "lastOpenFiles": [
+    "Javascript/var.md",
+    "Javascript/Prototype.md",
+    "Javascript/예약어.md",
+    "Javascript/식별자.md",
+    "Javascript/변수 재할당.md",
+    "Javascript/식별자 네이밍 규칙.md",
+    "Javascript/변수 할당.md",
+    "Javascript/변수 선언.md",
+    "Javascript/호이스팅.md",
+    "Javascript/const.md",
+    "Javascript/실행 컨텍스트.md",
+    "Javascript/let.md",
+    "Kotlin in Action/3주차 스터디.md",
     "Kotlin in Action/6주차 스터디.md",
     "Kotlin in Action/5주차 스터디.md",
     "Kotlin in Action/4주차 스터디.md",
     "Kotlin in Action/1주차 스터디.md",
-    "Kotlin in Action/3주차 스터디.md",
     "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "kotlin/Functions/with.md",
     "kotlin/Class/시퀀스.md",
@@ -272,19 +309,7 @@
     "kotlin/Class/인라인 클래스.md",
     "kotlin/멤버 참조.md",
     "kotlin/Keywords/enum.md",
-    "kotlin/Keywords/as.md",
     "kotlin/Keywords",
-    "kotlin/Functions/함수.md",
-    "kotlin/Functions/로컬 함수.md",
-    "kotlin/Functions/수신 객체 함수.md",
-    "kotlin/Functions/스코프 함수.md",
-    "kotlin/Functions/람다.md",
-    "kotlin/Functions/디폴트 파라미터 함수.md",
-    "kotlin/Functions/가변 인자 함수.md",
-    "kotlin/Functions/run.md",
-    "kotlin/Functions/main.md",
-    "kotlin/Functions/apply.md",
-    "kotlin/Functions/also.md",
     "kotlin/Functions",
     "Kotlin in Action",
     "kotlin/Class",
