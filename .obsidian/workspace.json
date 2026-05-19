@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Javascript/식별자.md",
+                    "file": "kotlin/Class/지연 초기화 프로퍼티.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "식별자"
+                  "title": "지연 초기화 프로퍼티"
                 }
               }
             ],
@@ -76,13 +76,38 @@
                     "id": "779936926af65bf2",
                     "type": "leaf",
                     "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Kotlin in Action/6주차 스터디.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "6주차 스터디"
+                    }
+                  },
+                  {
+                    "id": "d2d958d19f8ceea9",
+                    "type": "leaf",
+                    "state": {
                       "type": "graph",
                       "state": {},
                       "icon": "lucide-git-fork",
                       "title": "그래프 뷰"
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "541721aa102807ac",
@@ -192,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/식별자.md",
+                "file": "kotlin/Class/지연 초기화 프로퍼티.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "식별자 의 개요"
+              "title": "지연 초기화 프로퍼티 의 개요"
             }
           },
           {
@@ -259,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -283,38 +308,38 @@
   },
   "active": "07d88b6bb8a8f8bb",
   "lastOpenFiles": [
+    "kotlin/Functions/스코프 함수.md",
+    "kotlin/Class/지연 초기화 프로퍼티.md",
+    "kotlin/Functions/수신 객체 함수.md",
+    "kotlin/Functions/let.md",
+    "kotlin/Functions/로컬 함수.md",
+    "kotlin/Functions/apply.md",
+    "kotlin/Functions/with.md",
+    "kotlin/Functions/run.md",
+    "kotlin/Functions/main.md",
+    "kotlin/널 아님 단언 연산자.md",
+    "kotlin/Keywords/as.md",
+    "kotlin/엘비스 연산자.md",
+    "kotlin/안전한 호출 연산자.md",
+    "kotlin/널이 될 수 있는 타입.md",
+    "kotlin/Functions/람다.md",
+    "kotlin/Keywords/enum.md",
+    "kotlin/when.md",
+    "Javascript/식별자.md",
+    "Excalidraw/Drawing 2026-05-19 19.39.49.excalidraw.md",
+    "Kotlin in Action/6주차 스터디.md",
+    "Excalidraw",
     "Javascript/var.md",
     "Javascript/Prototype.md",
     "Javascript/예약어.md",
-    "Javascript/식별자.md",
     "Javascript/변수 재할당.md",
     "Javascript/식별자 네이밍 규칙.md",
     "Javascript/변수 할당.md",
-    "Javascript/변수 선언.md",
-    "Javascript/호이스팅.md",
-    "Javascript/const.md",
-    "Javascript/실행 컨텍스트.md",
-    "Javascript/let.md",
-    "Kotlin in Action/3주차 스터디.md",
-    "Kotlin in Action/6주차 스터디.md",
-    "Kotlin in Action/5주차 스터디.md",
-    "Kotlin in Action/4주차 스터디.md",
-    "Kotlin in Action/1주차 스터디.md",
-    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
-    "kotlin/Functions/with.md",
-    "kotlin/Class/시퀀스.md",
-    "kotlin/Class/Collections API.md",
-    "kotlin/Class/Collections.md",
-    "Kotlin in Action/2주차 스터디.md",
-    "kotlin/Class/인라인 클래스.md",
-    "kotlin/멤버 참조.md",
-    "kotlin/Keywords/enum.md",
     "kotlin/Keywords",
     "kotlin/Functions",
     "Kotlin in Action",
     "kotlin/Class",
     "patterns",
-    "Excalidraw",
     "kotlin/Kotlin in Action",
     "kotlin",
     "webRTC",

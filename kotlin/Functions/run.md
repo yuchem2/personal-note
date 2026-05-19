@@ -1,4 +1,3 @@
-
 ```kotlin
 fun main() {
     run { println(42) }

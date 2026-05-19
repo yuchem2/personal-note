@@ -1,4 +1,4 @@
-ES6에서 [let](let.md), [const](const.md)가 도입되기 전까지 자바스크립트에서 유일한 변수를 선언하는 키워드
+ES6에서 [let](Javascript/let.md), [const](const.md)가 도입되기 전까지 자바스크립트에서 유일한 변수를 선언하는 키워드
 
 ```js
 var score; // score가 가리키는 주소에는 undefined가 할당된다.
