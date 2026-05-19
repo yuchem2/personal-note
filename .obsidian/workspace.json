@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "kotlin/Class/지연 초기화 프로퍼티.md",
+                    "file": "Kotlin in Action/7주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "지연 초기화 프로퍼티"
+                  "title": "7주차 스터디"
                 }
               }
             ],
@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kotlin/Class/지연 초기화 프로퍼티.md",
+                "file": "Kotlin in Action/7주차 스터디.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "지연 초기화 프로퍼티 의 개요"
+              "title": "7주차 스터디 의 개요"
             }
           },
           {
@@ -308,8 +308,12 @@
   },
   "active": "07d88b6bb8a8f8bb",
   "lastOpenFiles": [
-    "kotlin/Functions/스코프 함수.md",
+    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
+    "Kotlin in Action/7주차 스터디.md",
+    "Kotlin in Action/6주차 스터디.md",
+    "Kotlin in Action/5주차 스터디.md",
     "kotlin/Class/지연 초기화 프로퍼티.md",
+    "kotlin/Functions/스코프 함수.md",
     "kotlin/Functions/수신 객체 함수.md",
     "kotlin/Functions/let.md",
     "kotlin/Functions/로컬 함수.md",
@@ -327,14 +331,10 @@
     "kotlin/when.md",
     "Javascript/식별자.md",
     "Excalidraw/Drawing 2026-05-19 19.39.49.excalidraw.md",
-    "Kotlin in Action/6주차 스터디.md",
     "Excalidraw",
     "Javascript/var.md",
     "Javascript/Prototype.md",
     "Javascript/예약어.md",
-    "Javascript/변수 재할당.md",
-    "Javascript/식별자 네이밍 규칙.md",
-    "Javascript/변수 할당.md",
     "kotlin/Keywords",
     "kotlin/Functions",
     "Kotlin in Action",
