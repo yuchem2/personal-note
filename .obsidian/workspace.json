@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kotlin in Action/7주차 스터디.md",
+                    "file": "kotlin/최상위 프로퍼티.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "7주차 스터디"
+                  "title": "최상위 프로퍼티"
                 }
               }
             ],
@@ -306,10 +306,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07d88b6bb8a8f8bb",
+  "active": "7e38776166e2da6e",
   "lastOpenFiles": [
-    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
+    "kotlin/가시성 변경자.md",
+    "kotlin/변수.md",
+    "Javascript/const.md",
     "Kotlin in Action/7주차 스터디.md",
+    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "Kotlin in Action/6주차 스터디.md",
     "Kotlin in Action/5주차 스터디.md",
     "kotlin/Class/지연 초기화 프로퍼티.md",
@@ -332,9 +335,6 @@
     "Javascript/식별자.md",
     "Excalidraw/Drawing 2026-05-19 19.39.49.excalidraw.md",
     "Excalidraw",
-    "Javascript/var.md",
-    "Javascript/Prototype.md",
-    "Javascript/예약어.md",
     "kotlin/Keywords",
     "kotlin/Functions",
     "Kotlin in Action",
