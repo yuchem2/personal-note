@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "kotlin/최상위 프로퍼티.md",
+                    "file": "Javascript/예약어.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,11 +57,59 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "최상위 프로퍼티"
+                  "title": "예약어"
+                }
+              },
+              {
+                "id": "9b4eb000ad22d8c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "programming basis/값.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "값"
+                }
+              },
+              {
+                "id": "1ad3cc6114f796a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Javascript/자바스크립트란.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "자바스크립트란"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "0d7f6ace80e08295",
@@ -306,8 +354,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e38776166e2da6e",
+  "active": "1ad3cc6114f796a2",
   "lastOpenFiles": [
+    "Javascript/리터럴.md",
+    "Javascript/자바스크립트란.md",
+    "programming basis/리터럴.md",
+    "programming basis/표현식.md",
+    "programming basis/값.md",
+    "Javascript/변수 재할당.md",
+    "Javascript/변수 선언.md",
+    "programming basis/변수.md",
+    "programming basis",
+    "Javascript/예약어.md",
+    "kotlin/최상위 프로퍼티.md",
     "kotlin/가시성 변경자.md",
     "kotlin/변수.md",
     "Javascript/const.md",
@@ -324,16 +383,6 @@
     "kotlin/Functions/with.md",
     "kotlin/Functions/run.md",
     "kotlin/Functions/main.md",
-    "kotlin/널 아님 단언 연산자.md",
-    "kotlin/Keywords/as.md",
-    "kotlin/엘비스 연산자.md",
-    "kotlin/안전한 호출 연산자.md",
-    "kotlin/널이 될 수 있는 타입.md",
-    "kotlin/Functions/람다.md",
-    "kotlin/Keywords/enum.md",
-    "kotlin/when.md",
-    "Javascript/식별자.md",
-    "Excalidraw/Drawing 2026-05-19 19.39.49.excalidraw.md",
     "Excalidraw",
     "kotlin/Keywords",
     "kotlin/Functions",
@@ -343,7 +392,6 @@
     "kotlin/Kotlin in Action",
     "kotlin",
     "webRTC",
-    "Javascript",
     "styles/Pasted image 20260225175123.png"
   ]
 }
