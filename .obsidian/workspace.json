@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1cbb4febe941e69",
+        "id": "ade2782003949def",
         "type": "split",
         "children": [
           {
-            "id": "5c4eb0bd0cca1f92",
+            "id": "eecc83b40bcbb9ad",
             "type": "tabs",
-            "dimension": 69.37212863705973,
+            "dimension": 66.34429400386847,
             "children": [
               {
-                "id": "af3bbb1196fe1785",
+                "id": "4c12ebf826535ae7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Javascript/var.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": false
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "var"
-                }
-              },
-              {
-                "id": "07d88b6bb8a8f8bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Javascript/예약어.md",
+                    "file": "Kotlin in Action/8주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,95 +33,22 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "예약어"
-                }
-              },
-              {
-                "id": "9b4eb000ad22d8c6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "programming basis/값.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "값"
-                }
-              },
-              {
-                "id": "1ad3cc6114f796a2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Javascript/자바스크립트란.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "자바스크립트란"
+                  "title": "8주차 스터디"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
-            "id": "0d7f6ace80e08295",
+            "id": "03ad3d4b097036e5",
             "type": "split",
-            "dimension": 30.627871362940272,
+            "dimension": 33.65570599613153,
             "children": [
               {
-                "id": "d140b14062e87f3d",
+                "id": "b51fc30948aecca4",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "779936926af65bf2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kotlin in Action/6주차 스터디.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "6주차 스터디"
-                    }
-                  },
-                  {
-                    "id": "d2d958d19f8ceea9",
+                    "id": "b29d55a3de6639dc",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -154,11 +57,10 @@
                       "title": "그래프 뷰"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
-                "id": "541721aa102807ac",
+                "id": "19f36bfa48cc5852",
                 "type": "tabs",
                 "children": [
                   {
@@ -210,7 +112,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -234,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 206.50281143188477
   },
   "right": {
     "id": "1f953b9a2d188bc3",
@@ -265,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin in Action/7주차 스터디.md",
+                "file": "Kotlin in Action/8주차 스터디.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "7주차 스터디 의 개요"
+              "title": "8주차 스터디 의 개요"
             }
           },
           {
@@ -280,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "styles/Checkbox Style.md",
+                "file": "kotlin/함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Checkbox Style 의 백링크"
+              "title": "함수 의 백링크"
             }
           },
           {
@@ -299,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "styles/Checkbox Style.md",
+                "file": "kotlin/함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Checkbox Style 의 나가는 링크"
+              "title": "함수 의 나가는 링크"
             }
           },
           {
@@ -320,78 +222,68 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
-          },
-          {
-            "id": "da903a025afbf1d8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": true,
-      "canvas:새 캔버스 만들기": true,
-      "daily-notes:오늘의 일일 노트 열기": true,
-      "templates:템플릿 삽입": true,
-      "bases:새 베이스 생성하기": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
-      "markdown-importer:마크다운 형식 불러오기 열기": true,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "bases:새 베이스 생성하기": false,
       "smart-random-note:Open Random Note from Search": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad3cc6114f796a2",
+  "active": "4c12ebf826535ae7",
   "lastOpenFiles": [
-    "Javascript/리터럴.md",
-    "Javascript/자바스크립트란.md",
-    "programming basis/리터럴.md",
-    "programming basis/표현식.md",
-    "programming basis/값.md",
-    "Javascript/변수 재할당.md",
-    "Javascript/변수 선언.md",
-    "programming basis/변수.md",
-    "programming basis",
-    "Javascript/예약어.md",
-    "kotlin/최상위 프로퍼티.md",
-    "kotlin/가시성 변경자.md",
-    "kotlin/변수.md",
-    "Javascript/const.md",
+    "Kotlin/중위 호출.md",
+    "Kotlin in Action/8주차 스터디.md",
     "Kotlin in Action/7주차 스터디.md",
-    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
+    "Kotlin/Kotlin.md",
+    "programming basis/표현식.md",
+    "programming basis/변수.md",
+    "programming basis/리터럴.md",
+    "programming basis/값.md",
+    "programming basis",
+    "Kotlin/엘비스 연산자.md",
+    "Kotlin/안전한 호출 연산자.md",
+    "Kotlin/널이 될 수 있는 타입.md",
+    "Kotlin/널 아님 단언 연산자.md",
+    "Kotlin/Functions/let.md",
+    "Kotlin/Class/지연 초기화 프로퍼티.md",
+    "Kotlin/Class/시퀀스.md",
+    "Kotlin/Class/Collections API.md",
     "Kotlin in Action/6주차 스터디.md",
     "Kotlin in Action/5주차 스터디.md",
-    "kotlin/Class/지연 초기화 프로퍼티.md",
-    "kotlin/Functions/스코프 함수.md",
-    "kotlin/Functions/수신 객체 함수.md",
-    "kotlin/Functions/let.md",
-    "kotlin/Functions/로컬 함수.md",
-    "kotlin/Functions/apply.md",
-    "kotlin/Functions/with.md",
-    "kotlin/Functions/run.md",
-    "kotlin/Functions/main.md",
-    "Excalidraw",
-    "kotlin/Keywords",
-    "kotlin/Functions",
-    "Kotlin in Action",
-    "kotlin/Class",
-    "patterns",
-    "kotlin/Kotlin in Action",
-    "kotlin",
+    "Javascript/호이스팅.md",
+    "Javascript/자바스크립트란.md",
+    "Javascript/예약어.md",
+    "Javascript/실행 컨텍스트.md",
+    "Javascript/식별자.md",
+    "Javascript/변수 재할당.md",
+    "Javascript/변수 선언.md",
+    "Javascript/리터럴.md",
+    "Kotlin/Keywords",
+    "Kotlin/Functions",
     "webRTC",
-    "styles/Pasted image 20260225175123.png"
+    "patterns",
+    "Kotlin in Action",
+    "Kotlin/Class",
+    "Kotlin",
+    "Javascript",
+    "styles/Pasted image 20260225175123.png",
+    "Pattern"
   ]
 }
