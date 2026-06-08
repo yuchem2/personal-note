@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "kotlin/플랫폼 타입.md",
+                    "file": "Javascript/세미콜론 자동 삽입 기능.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "플랫폼 타입"
+                  "title": "세미콜론 자동 삽입 기능"
                 }
               }
             ],
@@ -308,12 +308,16 @@
   },
   "active": "b2bbf8299d665e08",
   "lastOpenFiles": [
-    "kotlin/널이 될 수 있는 타입.md",
+    "programming basis/세미콜론.md",
+    "Javascript/세미콜론 자동 삽입 기능.md",
+    "programming basis/문.md",
+    "programming basis/토큰.md",
+    "programming basis/표현식.md",
     "kotlin/플랫폼 타입.md",
+    "kotlin/널이 될 수 있는 타입.md",
     "kotlin/타입 파라미터.md",
     "programming basis/리터럴.md",
     "programming basis/타입 파라미터.md",
-    "programming basis/표현식.md",
     "programming basis/변수.md",
     "kotlin/구조 분해 선언.md",
     "kotlin/Functions/let.md",
@@ -330,11 +334,7 @@
     "Kotlin in Action/1주차 스터디.md",
     "Javascript/자바스크립트란.md",
     "Javascript/리터럴.md",
-    "programming basis/값.md",
-    "Javascript/변수 재할당.md",
-    "Javascript/변수 선언.md",
     "programming basis",
-    "Javascript/예약어.md",
     "Excalidraw",
     "kotlin/Keywords",
     "kotlin/Functions",
