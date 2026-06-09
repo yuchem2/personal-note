@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Javascript/세미콜론 자동 삽입 기능.md",
+                    "file": "Kotlin in Action/10주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "세미콜론 자동 삽입 기능"
+                  "title": "10주차 스터디"
                 }
               }
             ],
@@ -308,8 +308,10 @@
   },
   "active": "b2bbf8299d665e08",
   "lastOpenFiles": [
-    "programming basis/세미콜론.md",
+    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
+    "Kotlin in Action/10주차 스터디.md",
     "Javascript/세미콜론 자동 삽입 기능.md",
+    "programming basis/세미콜론.md",
     "programming basis/문.md",
     "programming basis/토큰.md",
     "programming basis/표현식.md",
@@ -324,10 +326,8 @@
     "kotlin/Class/클래스 확장.md",
     "kotlin/Class/지연 초기화 프로퍼티.md",
     "kotlin/널 아님 단언 연산자.md",
-    "Kotlin in Action/10주차 스터디.md",
     "Kotlin in Action/9주차 스터디.md",
     "Kotlin in Action/8주차 스터디.md",
-    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "Kotlin in Action/4주차 스터디.md",
     "Kotlin in Action/3주차 스터디.md",
     "Kotlin in Action/2주차 스터디.md",
