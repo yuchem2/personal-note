@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kotlin in Action/10주차 스터디.md",
+                    "file": "Kotlin in Action/11주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "10주차 스터디"
+                  "title": "11주차 스터디"
                 }
               }
             ],
@@ -76,38 +76,13 @@
                     "id": "779936926af65bf2",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kotlin in Action/6주차 스터디.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "6주차 스터디"
-                    }
-                  },
-                  {
-                    "id": "d2d958d19f8ceea9",
-                    "type": "leaf",
-                    "state": {
                       "type": "graph",
                       "state": {},
                       "icon": "lucide-git-fork",
                       "title": "그래프 뷰"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "541721aa102807ac",
@@ -308,8 +283,10 @@
   },
   "active": "b2bbf8299d665e08",
   "lastOpenFiles": [
-    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "Kotlin in Action/10주차 스터디.md",
+    "Kotlin in Action/6주차 스터디.md",
+    "Kotlin in Action/11주차 스터디.md",
+    "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "Javascript/세미콜론 자동 삽입 기능.md",
     "programming basis/세미콜론.md",
     "programming basis/문.md",
@@ -332,8 +309,6 @@
     "Kotlin in Action/3주차 스터디.md",
     "Kotlin in Action/2주차 스터디.md",
     "Kotlin in Action/1주차 스터디.md",
-    "Javascript/자바스크립트란.md",
-    "Javascript/리터럴.md",
     "programming basis",
     "Excalidraw",
     "kotlin/Keywords",
