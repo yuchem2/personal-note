@@ -42,7 +42,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kotlin in Action/11주차 스터디.md",
+                    "file": "Kotlin in Action/12주차 스터디.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -57,7 +57,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "11주차 스터디"
+                  "title": "12주차 스터디"
                 }
               }
             ],
@@ -283,10 +283,11 @@
   },
   "active": "b2bbf8299d665e08",
   "lastOpenFiles": [
+    "Kotlin in Action/11주차 스터디.md",
+    "Kotlin in Action/12주차 스터디.md",
     "Kotlin in Action/8주차 스터디.md",
     "Kotlin in Action/9주차 스터디.md",
     "Kotlin in Action/10주차 스터디.md",
-    "Kotlin in Action/11주차 스터디.md",
     "Kotlin in Action/6주차 스터디.md",
     "Kotlin in Action/Kotlin in  Action 스터디 노트 정리.md",
     "Javascript/세미콜론 자동 삽입 기능.md",
@@ -308,7 +309,6 @@
     "Kotlin in Action/4주차 스터디.md",
     "Kotlin in Action/3주차 스터디.md",
     "Kotlin in Action/2주차 스터디.md",
-    "Kotlin in Action/1주차 스터디.md",
     "programming basis",
     "Excalidraw",
     "kotlin/Keywords",
