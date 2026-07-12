@@ -13,43 +13,32 @@
             "dimension": 76.07003891050583,
             "children": [
               {
-                "id": "d9193a6954437f19",
+                "id": "f3f5229127074121",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "Javascript/연산자/연산자 우선순위.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
+                    "aFile": ".obsidian/workspace.json",
+                    "bFile": ".obsidian/workspace.json",
+                    "aRef": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "연산자 우선순위"
+                  "icon": "diff",
+                  "title": "Diff: workspace.json  (Working Tree)"
                 }
               }
             ]
           },
           {
-            "id": "0d7f6ace80e08295",
+            "id": "b48fe99d25b7d408",
             "type": "split",
             "dimension": 23.929961089494164,
             "children": [
               {
-                "id": "d140b14062e87f3d",
+                "id": "280baad7be26f8c4",
                 "type": "tabs",
-                "dimension": 39.559659090909086,
                 "children": [
                   {
-                    "id": "779936926af65bf2",
+                    "id": "d9193a6954437f19",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -63,7 +52,6 @@
               {
                 "id": "541721aa102807ac",
                 "type": "tabs",
-                "dimension": 60.44034090909091,
                 "children": [
                   {
                     "id": "07b3aa859ebc381d",
@@ -250,18 +238,25 @@
       "templates:템플릿 삽입": true,
       "bases:새 베이스 생성하기": false,
       "command-palette:명령어 팔레트 열기": false,
-      "graph:그래프 뷰 열기": false,
       "markdown-importer:마크다운 형식 불러오기 열기": true,
+      "graph:그래프 뷰 열기": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "smart-random-note:Open Random Note from Search": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9193a6954437f19",
+  "active": "07b3aa859ebc381d",
   "lastOpenFiles": [
-    "Javascript/연산자/연산자 결합 순서.md",
+    "programming basis/변수.md",
+    "programming basis/정적 타입 지정 언어.md",
+    "programming basis/표현식.md",
+    "Javascript/변수 선언.md",
+    "Kotlin in Action/4주차 스터디.md",
+    "programming basis/동적 타입 지정 언어.md",
+    "programming basis/리터럴.md",
     "Javascript/연산자/연산자 우선순위.md",
+    "Javascript/연산자/연산자 결합 순서.md",
     "Javascript/연산자/삼항 조건 연산자.md",
     "Javascript/연산자/문자열 연결 연산자.md",
     "Javascript/연산자/비교 연산자.md",
@@ -274,19 +269,12 @@
     "Javascript/연산자/논리 연산자.md",
     "Javascript/연산자/산술 연산자.md",
     "Javascript/연산자/할당 연산자.md",
-    "programming basis/동적 타입 지정 언어.md",
     "Javascript/연산자",
-    "programming basis/정적 타입 지정 언어.md",
     "Javascript/types/리터럴.md",
     "programming basis/데이터 타입의 필요성.md",
     "Javascript/types/Boolean 타입.md",
     "Javascript/types/Null 타입.md",
     "Javascript/types/Number 타입.md",
-    "Javascript/types/String 타입.md",
-    "Javascript/types/Symbol 타입.md",
-    "Javascript/types/Undefined 타입.md",
-    "Javascript/types/템플릿 리터럴.md",
-    "Javascript/var.md",
     "Javascript/types",
     "programming basis",
     "Excalidraw",
