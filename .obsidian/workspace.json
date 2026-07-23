@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MySQL/시스템 변수.md",
+                    "file": "algorithm/범위 기법.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "시스템 변수"
+                  "title": "범위 기법"
                 }
               }
             ]
@@ -258,7 +258,13 @@
   },
   "active": "f3f5229127074121",
   "lastOpenFiles": [
+    "algorithm/비트마스크.md",
+    "algorithm/disjoint set.md",
+    "algorithm/최대 공약수.md",
+    "algorithm/우선순위 큐.md",
+    "algorithm/범위 기법.md",
     "MySQL/시스템 변수.md",
+    "algorithm",
     "MySQL",
     "programming basis/변수.md",
     "programming basis/정적 타입 지정 언어.md",
@@ -280,12 +286,7 @@
     "Javascript/연산자/쉼표 연산자.md",
     "Javascript/연산자/논리 연산자.md",
     "Javascript/연산자/산술 연산자.md",
-    "Javascript/연산자/할당 연산자.md",
     "Javascript/연산자",
-    "Javascript/types/리터럴.md",
-    "programming basis/데이터 타입의 필요성.md",
-    "Javascript/types/Boolean 타입.md",
-    "Javascript/types/Null 타입.md",
     "Javascript/types",
     "programming basis",
     "Excalidraw",
@@ -293,7 +294,6 @@
     "kotlin/Functions",
     "Kotlin in Action",
     "kotlin/Class",
-    "patterns",
     "styles/Pasted image 20260225175123.png"
   ]
 }
