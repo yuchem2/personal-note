@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "algorithm/범위 기법.md",
+                    "file": "MySQL/사용자 계정 관리.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "범위 기법"
+                  "title": "사용자 계정 관리"
                 }
               }
             ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin in Action/7주차 스터디.md",
+                "file": "MySQL/사용자 계정 관리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "7주차 스터디 의 개요"
+              "title": "사용자 계정 관리 의 개요"
             }
           },
           {
@@ -234,11 +234,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,12 +258,18 @@
   },
   "active": "f3f5229127074121",
   "lastOpenFiles": [
-    "algorithm/비트마스크.md",
+    "MySQL/무제.md",
+    "MySQL/사용자 계정 관리.md",
+    "MySQL/사용자 식별.md",
+    "MySQL/시스템 변수.md",
+    "MySQL/MySQL 서버 디렉토리 구조.md",
+    "MySQL/설정 파일.md",
+    "algorithm/코딩테스트 준비 시트 — 현대오토에버.md",
     "algorithm/disjoint set.md",
     "algorithm/최대 공약수.md",
-    "algorithm/우선순위 큐.md",
     "algorithm/범위 기법.md",
-    "MySQL/시스템 변수.md",
+    "algorithm/비트마스크.md",
+    "algorithm/우선순위 큐.md",
     "algorithm",
     "MySQL",
     "programming basis/변수.md",
@@ -280,12 +286,6 @@
     "Javascript/연산자/비교 연산자.md",
     "Javascript/연산자/그룹 연산자.md",
     "Javascript/연산자/지수 연산자.md",
-    "Javascript/연산자/typeof 연산자.md",
-    "Javascript/types/데이터 타입.md",
-    "Javascript/types/BigInt 타입.md",
-    "Javascript/연산자/쉼표 연산자.md",
-    "Javascript/연산자/논리 연산자.md",
-    "Javascript/연산자/산술 연산자.md",
     "Javascript/연산자",
     "Javascript/types",
     "programming basis",
