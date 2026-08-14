@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MySQL/사용자 역할.md",
+                    "file": "MySQL/아키텍처/MySQL 아키텍처.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "사용자 역할"
+                  "title": "MySQL 아키텍처"
                 }
               }
             ]
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mysql ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,34 +248,36 @@
   },
   "active": "b29d55a3de6639dc",
   "lastOpenFiles": [
-    "Kotlin in Action/10주차 스터디.md",
-    "MySQL/사용자 역할.md",
+    "MySQL/아키텍처/MySQL 아키텍처.md",
+    "MySQL/아키텍처/MySQL 엔진.md",
+    "MySQL/아키텍처/메타데이터.md",
+    "MySQL/mysql DB.md",
     "MySQL/사용자 권한.md",
-    "MySQL/사용자 계정 관리.md",
-    "MySQL/사용자 비밀번호 관리.md",
-    "MySQL/사용자 식별.md",
+    "MySQL/아키텍처/스레드 풀.md",
+    "MySQL/아키텍처/MySQL 스레딩 구조.md",
+    "MySQL/아키텍처/쿼리 캐시.md",
     "MySQL/시스템 변수.md",
-    "Kotlin in Action/8주차 스터디.md",
-    "programming basis/함수형 프로그래밍.md",
-    "programming basis/토큰.md",
-    "programming basis/타입 파라미터.md",
-    "programming basis/정적 타입 지정 언어.md",
-    "programming basis/세미콜론.md",
-    "programming basis/문.md",
-    "programming basis/동적 타입 지정 언어.md",
-    "Kotlin/플랫폼 타입.md",
-    "Kotlin/타입 파라미터.md",
-    "algorithm/최대 공약수.md",
-    "algorithm/코딩테스트 준비 시트 — 현대오토에버.md",
-    "algorithm/비트마스크.md",
-    "algorithm/범위 기법.md",
-    "algorithm/우선순위 큐.md",
-    "algorithm/disjoint set.md",
-    "algorithm",
-    "MySQL/설정 파일.md",
+    "MySQL/사용자 식별.md",
+    "MySQL/사용자 역할.md",
+    "MySQL/아키텍처/스토리지 엔진.md",
+    "MySQL/사용자 비밀번호 관리.md",
+    "MySQL/사용자 계정 관리.md",
+    "MySQL/아키텍처/복제.md",
+    "MySQL/아키텍처/핸들러 API.md",
+    "MySQL/아키텍처/쿼리 실행 구조.md",
+    "MySQL/아키텍처/컴포넌트.md",
+    "MySQL/아키텍처/플러그인 스토리지 엔진 모델.md",
+    "MySQL/아키텍처/메모리 구조.md",
+    "MySQL/아키텍처/InnoDB 스토리지 엔진.md",
+    "MySQL/아키텍처/MyISAM 스토리지 엔진.md",
+    "MySQL/아키텍처/커넥션 핸들러.md",
+    "MySQL/아키텍처/Pasted image 20260814164907.png",
+    "MySQL/아키텍처",
     "MySQL/MySQL 서버 디렉토리 구조.md",
+    "Kotlin in Action/10주차 스터디.md",
+    "Kotlin in Action/8주차 스터디.md",
+    "algorithm",
     "MySQL",
-    "Kotlin in Action/9주차 스터디.md",
     "Javascript/연산자",
     "Javascript/types",
     "programming basis",
@@ -283,7 +285,6 @@
     "Kotlin/Functions",
     "webRTC",
     "patterns",
-    "Kotlin in Action",
     "styles/Pasted image 20260225175123.png"
   ]
 }
