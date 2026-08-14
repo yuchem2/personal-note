@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path: MySQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 12.1106490783611,
   "linkStrength": 1,
   "linkDistance": 268,
-  "scale": 0.19597237458463945,
+  "scale": 0.31799742114811885,
   "close": true
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1cbb4febe941e69",
+        "id": "ade2782003949def",
         "type": "split",
         "children": [
           {
-            "id": "78883acb7e157984",
+            "id": "eecc83b40bcbb9ad",
             "type": "tabs",
-            "dimension": 76.07003891050583,
+            "dimension": 66.34429400386847,
             "children": [
               {
-                "id": "f3f5229127074121",
+                "id": "4c12ebf826535ae7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MySQL/사용자 계정 관리.md",
+                    "file": "MySQL/사용자 역할.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,22 +33,22 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "사용자 계정 관리"
+                  "title": "사용자 역할"
                 }
               }
             ]
           },
           {
-            "id": "b48fe99d25b7d408",
+            "id": "03ad3d4b097036e5",
             "type": "split",
-            "dimension": 23.929961089494164,
+            "dimension": 33.65570599613153,
             "children": [
               {
-                "id": "280baad7be26f8c4",
+                "id": "b51fc30948aecca4",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "d9193a6954437f19",
+                    "id": "b29d55a3de6639dc",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -60,7 +60,7 @@
                 ]
               },
               {
-                "id": "541721aa102807ac",
+                "id": "19f36bfa48cc5852",
                 "type": "tabs",
                 "children": [
                   {
@@ -112,7 +112,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 240.50281143188477
   },
   "right": {
     "id": "1f953b9a2d188bc3",
@@ -167,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/사용자 계정 관리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "사용자 계정 관리 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "styles/Checkbox Style.md",
+                "file": "kotlin/함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Checkbox Style 의 백링크"
+              "title": "함수 의 백링크"
             }
           },
           {
@@ -201,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "styles/Checkbox Style.md",
+                "file": "kotlin/함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Checkbox Style 의 나가는 링크"
+              "title": "함수 의 나가는 링크"
             }
           },
           {
@@ -222,78 +221,69 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
-          },
-          {
-            "id": "da903a025afbf1d8",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 234.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": true,
-      "canvas:새 캔버스 만들기": true,
-      "daily-notes:오늘의 일일 노트 열기": true,
-      "templates:템플릿 삽입": true,
-      "bases:새 베이스 생성하기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 불러오기 열기": true,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "bases:새 베이스 생성하기": false,
       "smart-random-note:Open Random Note from Search": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3f5229127074121",
+  "active": "b29d55a3de6639dc",
   "lastOpenFiles": [
-    "MySQL/무제.md",
+    "Kotlin in Action/10주차 스터디.md",
+    "MySQL/사용자 역할.md",
+    "MySQL/사용자 권한.md",
     "MySQL/사용자 계정 관리.md",
+    "MySQL/사용자 비밀번호 관리.md",
     "MySQL/사용자 식별.md",
     "MySQL/시스템 변수.md",
-    "MySQL/MySQL 서버 디렉토리 구조.md",
-    "MySQL/설정 파일.md",
-    "algorithm/코딩테스트 준비 시트 — 현대오토에버.md",
-    "algorithm/disjoint set.md",
-    "algorithm/최대 공약수.md",
-    "algorithm/범위 기법.md",
-    "algorithm/비트마스크.md",
-    "algorithm/우선순위 큐.md",
-    "algorithm",
-    "MySQL",
-    "programming basis/변수.md",
+    "Kotlin in Action/8주차 스터디.md",
+    "programming basis/함수형 프로그래밍.md",
+    "programming basis/토큰.md",
+    "programming basis/타입 파라미터.md",
     "programming basis/정적 타입 지정 언어.md",
-    "programming basis/표현식.md",
-    "Javascript/변수 선언.md",
-    "Kotlin in Action/4주차 스터디.md",
+    "programming basis/세미콜론.md",
+    "programming basis/문.md",
     "programming basis/동적 타입 지정 언어.md",
-    "programming basis/리터럴.md",
-    "Javascript/연산자/연산자 우선순위.md",
-    "Javascript/연산자/연산자 결합 순서.md",
-    "Javascript/연산자/삼항 조건 연산자.md",
-    "Javascript/연산자/문자열 연결 연산자.md",
-    "Javascript/연산자/비교 연산자.md",
-    "Javascript/연산자/그룹 연산자.md",
-    "Javascript/연산자/지수 연산자.md",
+    "Kotlin/플랫폼 타입.md",
+    "Kotlin/타입 파라미터.md",
+    "algorithm/최대 공약수.md",
+    "algorithm/코딩테스트 준비 시트 — 현대오토에버.md",
+    "algorithm/비트마스크.md",
+    "algorithm/범위 기법.md",
+    "algorithm/우선순위 큐.md",
+    "algorithm/disjoint set.md",
+    "algorithm",
+    "MySQL/설정 파일.md",
+    "MySQL/MySQL 서버 디렉토리 구조.md",
+    "MySQL",
+    "Kotlin in Action/9주차 스터디.md",
     "Javascript/연산자",
     "Javascript/types",
     "programming basis",
-    "Excalidraw",
-    "kotlin/Keywords",
-    "kotlin/Functions",
+    "Kotlin/Keywords",
+    "Kotlin/Functions",
+    "webRTC",
+    "patterns",
     "Kotlin in Action",
-    "kotlin/Class",
     "styles/Pasted image 20260225175123.png"
   ]
 }
